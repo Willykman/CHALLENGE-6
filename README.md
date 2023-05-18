@@ -6,3 +6,6 @@ This challenge is to use demonstrate visualization skills, including aggregation
 
 **Tools and/or Imports Used**
 Jupyter, Pandas, Pathlib, Hvplot.
+
+**Disclamer:**
+I received help with code from a from the support staff and google searches for error messages.
